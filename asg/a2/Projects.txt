@@ -1,0 +1,16 @@
+					PROJECT IDEAS
+
+1.	From twitter predicting the probability of some financial crisis.
+	DATA: Tweets on money lending offers by the banks and loss of investments.
+
+2.	 On the basis of the tweets, analysing the following:
+	a)	most talked person
+	b)	highest type of crime
+	c)	most widespread impact of some disaster
+        DATA: Tweets about a person, crime, after effect of some disaster.
+
+3.	From the groups in facebook, analysing the following:
+	a)	highly active person
+	b)	most talked topic
+	c)	a set of people not getting involved in any discussion, the probable reason for that 
+	DATA: from the frequency of posts posted by people in the group on some particular topic.  

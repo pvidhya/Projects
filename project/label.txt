@@ -1,0 +1,7 @@
+-3:Anger
+-2:Sad
+-1:Confusion
+0:general
+1:Happy
+2:Content
+3:Excited
